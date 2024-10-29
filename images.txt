@@ -5,6 +5,6 @@ nats
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
 #xhofe/alist:latest
 #支持指定架构
---platform=linux/arm/v7 laoyutang/clash-and-dashboard
---platform=linux/arm64 laoyutang/clash-and-dashboard
---platform=linux/amd64 laoyutang/clash-and-dashboard
+#--platform=linux/arm/v7 laoyutang/clash-and-dashboard
+#--platform=linux/arm64 laoyutang/clash-and-dashboard
+#--platform=linux/amd64 laoyutang/clash-and-dashboard
