@@ -1,6 +1,6 @@
-kuzcoxyz/worker
-nats
-ghcr.io/ggerganov/llama.cpp:full
+kuzcoxyz/amd64-ollama-nvidia-worker
+#nats
+#ghcr.io/ggerganov/llama.cpp:full
 #laoyutang/clash-and-dashboard
 #支持私库
 #k8s.gcr.io/kube-state-metrics/kube-state-metrics:v2.0.0
