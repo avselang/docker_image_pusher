@@ -1,4 +1,5 @@
 kuzcoxyz/amd64-ollama-nvidia-worker
+lobehub/lobe-chat
 #nats
 #ghcr.io/ggerganov/llama.cpp:full
 #laoyutang/clash-and-dashboard
