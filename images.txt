@@ -1,4 +1,5 @@
 kuzcoxyz/amd64-ollama-nvidia-worker
+inferencedevnet/amd64-nvidia-inference-node:latest
 lobehub/lobe-chat
 #nats
 #ghcr.io/ggerganov/llama.cpp:full
