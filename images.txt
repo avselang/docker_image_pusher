@@ -1,6 +1,6 @@
 #kuzcoxyz/amd64-ollama-nvidia-worker
 inferencedevnet/amd64-nvidia-inference-node:latest
-nvidia/cuda:12.4.0-base-ubuntu22.04 nvidia-smi
+nvidia/cuda:12.4.0-base-ubuntu22.04
 #lobehub/lobe-chat
 #nats
 #ghcr.io/ggerganov/llama.cpp:full
